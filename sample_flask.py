@@ -59,12 +59,12 @@ def get_image():
         filedata = base64_hdr_info + ',' + filedata
     return filedata
 
-'''
-1.Delete option
-2.Number shift ho jaaye
-3.Summary Statistics
-4. 
-''''#
+#'''
+#1.Delete option
+#2.Number shift ho jaaye
+#3.Summary Statistics
+#4. 
+#''''#
 
 
 # @app.route('/upload_file', methods=['POST'])
